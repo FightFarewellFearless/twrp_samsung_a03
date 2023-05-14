@@ -7,9 +7,6 @@
 
 LOCAL_PATH := device/samsung/a03
 
-# Dynamic Partitions
-PRODUCT_USE_DYNAMIC_PARTITIONS := true
-
 # Fastbootd
 PRODUCT_PACKAGES += \
 	fastbootd \
